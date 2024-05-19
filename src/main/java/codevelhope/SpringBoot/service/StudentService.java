@@ -1,7 +1,7 @@
 package codevelhope.SpringBoot.service;
 
 import codevelhope.SpringBoot.model.Student;
-import codevelhope.SpringBoot.model.StudentRepo;
+import codevelhope.SpringBoot.repoditory.StudentRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

@@ -1,7 +1,7 @@
 package codevelhope.SpringBoot.service;
 
 import codevelhope.SpringBoot.model.Exercise;
-import codevelhope.SpringBoot.model.ExerciseRepo;
+import codevelhope.SpringBoot.repoditory.ExerciseRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
